@@ -2,6 +2,7 @@ package com.mahait.array;
 
 public class CountPositiveAndNegativeNumberInArray {
 		public static void main(String[] args) {
+			
 			int[] array1 = {-1,11,2,3,4,5,6,7,8,-9,-8,-6,-5,4,-3};
 			int negativeNumberCount = 0;
 			int positiveNumberCount = 0;
