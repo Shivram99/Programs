@@ -7,6 +7,7 @@ public class CountPositiveAndNegativeNumberInArray {
 			int negativeNumberCount = 0;
 			int positiveNumberCount = 0;
 			int[] negativeNumberArray = new int[array1.length];
+
 			int[] positiveNumberArray = new int[array1.length];
 			
 			for (int i = 0; i < array1.length; i++) {
